@@ -1,1 +1,1 @@
-Hello, my name is **Joaquin**, not *Juaquin*. Thanks 
+Hello, my name is **Joaquin**, not *Joakin*. Thanks 
